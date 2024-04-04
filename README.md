@@ -25,7 +25,7 @@ Ensure you have the latest version of [Node.js](https://nodejs.org/) installed, 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/sagacity-digital.git
+   git clone https://github.com/hipnologo/sagacity-digital.git
    ```
 
 Usage
